@@ -1,0 +1,39 @@
+L R1 false
+O R2 0
+L R1 false
+O R2 0
+L R3 false
+L R4 false
+L R5 false
+L R6 false
+L R7 false
+O R8 0
+O R9 0
+O R10 0
+O R11 0
+O R12 0
+O R13 0
+O R14 0
+O R15 0
+O R16 0
+O R17 0
+L R18 false
+L R19 false
+1200 500
+1300 600
+Day{name='MON', rate=0.8, gift='Fruits'}
+Day{name='TUE', rate=0.75, gift='Drinks'}
+Day{name='WED', rate=0.71, gift='GYM CARD'}
+Day{name='THU', rate=0.68, gift='Fruits'}
+Day{name='FRI', rate=1.0, gift='GYM CARD'}
+Day{name='SAT', rate=1.0, gift='HOT SPRINGS'}
+Day{name='SUN', rate=0.95, gift='SWIMMING'}
+R1 R2 R3 R4 R8 R9 
+R3 R4 R9 
+5420
+Day{name='TUE', rate=0.75, gift='Drinks'}
+1225
+R2 R4 R5 R9 R11 R19 
+9082
+Day{name='FRI', rate=1.0, gift='GYM CARD'}
+53024
